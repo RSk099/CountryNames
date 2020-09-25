@@ -1,11 +1,5 @@
-# CountryNames
-
-A list of country names in JavaScript and PHP
-
-# Raw:
-
-```
-'Afghanistan',
+const countries = [
+  'Afghanistan',
   'Albania',
   'Algeria',
   'American Samoa',
@@ -247,4 +241,6 @@ A list of country names in JavaScript and PHP
   'Yemen',
   'Zambia',
   'Zimbabwe'
-```
+];
+
+export default countries;
